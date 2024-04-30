@@ -14,9 +14,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=JohnBaska&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-### Projects Completed 
-  <a href="https://github.com/JohnBaska/Agenda"><img src="https://cdn.pixabay.com/photo/2013/07/12/17/22/agenda-152092_1280.png" width=100 height=120/></a>
-  <a href="https://github.com/JohnBaska/Calculadora_python"><img src="https://cdn.pixabay.com/photo/2016/07/29/21/42/school-1555910_1280.png" width=122 height=128/></a>
+### Projects Completed
+<div border-width="50px">
+  <a href="https://github.com/JohnBaska/Agenda" text-decoration= "none"><img src="https://cdn.pixabay.com/photo/2013/07/12/17/22/agenda-152092_1280.png" width=100 height=120/> Agenda</a>
+</div>
+  <a href="https://github.com/JohnBaska/Calculadora_python" text-decoration= "none"><img src="https://cdn.pixabay.com/photo/2016/07/29/21/42/school-1555910_1280.png" width=122 height=128/> Calculadora</a>
   
 ### Main skills:
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
