@@ -13,7 +13,10 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=JohnBaska&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
- 
+
+### Best Projects
+  <a href="https://github.com/JohnBaska/Agenda"><img src="https://cdn.pixabay.com/photo/2013/07/12/17/22/agenda-152092_1280.png" width=100 height=120/></a>
+  
 ### Main skills:
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
